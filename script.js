@@ -1,19 +1,3 @@
-// var img2 = document.getElementById('img2')
-// img2.addEventListener('mousemove',function() {
-//     img2.src = ''
-// })
-// img2.addEventListener('mouseover', function(){
-//     img1.src = ''
-// })
-// var img3 = document.getElementById('img3')
-// img3.addEventListener('mousemove',function(){
-//     img1.src = ''
-// })
-// var img4 = document.getElementById('img4')
-// img4.addEventListener('mousemove',function(){
-//     img1.src = ''
-// })
-
 var img2 = document.getElementById('img2')
 img2.addEventListener('mouseover', function() {
 })

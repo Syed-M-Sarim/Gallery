@@ -35,3 +35,39 @@ body{
     margin-right: 50px;
     height: 200px
 }
+
+@media screen (min-width : 430px) and (max-width : 1000px) {
+    #mainimg{
+        margin-top: 5px;
+        margin-left: 200px;
+        width: 150px;
+        height: 20px;
+        padding-bottom: 20px
+    }
+    #otherimgs{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-left: 200px;
+        margin-top: 200px;
+        width: 60%;
+        height: 300px;
+        padding-top: 20px;
+    }
+    #img2{
+        margin-right: 30px;
+        height: 100px;
+    }
+    #img3{
+        margin-right: 30px;
+        height: 100px
+    }
+    #img4{
+        margin-right: 30px;
+        height: 100px
+    }
+    #img5{
+        margin-right: 30px;
+        height: 100px
+    }
+}
